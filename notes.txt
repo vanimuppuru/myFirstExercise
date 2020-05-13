@@ -1,0 +1,8 @@
+<<<<<<< HEAD
+This is updated
+=======
+# This is the new file added
+# This is the new file added
+# This is the new file added
+# This is the new file added
+>>>>>>> 5165de9aeb199a24d62b55b59bd9deacea84f579
